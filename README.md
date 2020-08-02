@@ -20,6 +20,7 @@ In the terminal run the following:
 5. npm run seed
 6. npm start
 
+### Application GIFs
 ![demo](/assets/get-all.gif)
 ![demo](/assets/get-id.gif)
 ![demo](/assets/delete-categories.gif)
