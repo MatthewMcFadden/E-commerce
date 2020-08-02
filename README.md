@@ -11,6 +11,7 @@ In the terminal install programs by running the following commands:
 
 ### Usage
 ![demo](/assets/application-setup.gif)
+
 In the terminal run the following:
 1. mysql -u <your MySQL username> -p
 2. Enter your MySQL password
