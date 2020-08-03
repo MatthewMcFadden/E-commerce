@@ -5,9 +5,9 @@ E-commerce Back End application is a mysql database for an e-commerce website. I
 Clone code from my github: https://github.com/MatthewMcFadden/E-commerce
 In the terminal install programs by running the following commands:
 * npm init
-* npm i mysql2
-* npm i sequelize
-* npm i dotenv
+* npm install mysql2
+* npm install sequelize
+* npm install dotenv
 
 ### Usage
 ![demo](/assets/application-setup.gif)
